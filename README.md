@@ -1,3 +1,34 @@
+
+## 🔧 Technologies I Work With
+
+* Backend: Python, Flask, FastAPI
+* AI/ML: LangChain, LLMs (OpenAI, GPT, Claude), RAG, Vector Databases
+* Cloud/Storage: AWS S3, Serverless
+* DevOps: Docker, CI/CD
+
+## 🚀 What I’m Building
+* AI-powered document search and question-answering systems
+
+* Scalable APIs for NLP applications
+
+* Retrieval-Augmented Generation (RAG) pipelines
+
+## 🌱 Learning & Exploring
+* Optimizing LLM performance & cost
+
+* Open-source LLMs (Llama 2, Mistral)
+
+* MLOps for generative AI
+
+(Customize links and add emojis for personality!)
+
+## 💡 Why This Works
+* Concise: Highlights key skills without clutter.
+
+* Action-Oriented: Focuses on projects and learning goals.
+
+* Search-Friendly: Keywords like "RAG," "LangChain," and "LLMs" attract recruiters.
+
 # How to run?
 
 ### STEPS:
@@ -42,12 +73,12 @@ open up you local host and port
 7) giving context and query to the LLM and finally giving the response to the user
 
 
-a) python
-b) flask (front-end)
-c) LLM 
-d) vector db
-e) S3 bucket (AWS)
-f) CICD pipeline for deployment
+#  python
+# flask (front-end)
+# LLM 
+# vector db
+# S3 bucket (AWS)
+# CICD pipeline for deployment
 
 
 
