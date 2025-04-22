@@ -37,7 +37,7 @@ open up you local host and port
 3) chunking operation
 4) embedding model
 4) vector embedding
-5) vector database (knowledge base)====== {cromadb, pinecone}
+5) vector database (knowledge base)====== {cromadb, pinecone}  but used cromadb
 6) retuns rankoutput/ response if k = 3 it will return 3 responses
 7) giving context and query to the LLM and finally giving the response to the user
 
