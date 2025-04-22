@@ -46,6 +46,8 @@ a) python
 b) flask (front-end)
 c) LLM 
 d) vector db
-e) S3 bucket
-f) CICD (deployment)
+e) S3 bucket (AWS)
+f) CICD pipeline for deployment
+
+
 
