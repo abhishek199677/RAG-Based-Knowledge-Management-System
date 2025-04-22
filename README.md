@@ -18,7 +18,7 @@
 
 * Open-source LLMs (Llama 2, Mistral)
 
-* MLOps for generative AI
+* MLOps for generative AI 
 
 (Customize links and add emojis for personality!)
 
