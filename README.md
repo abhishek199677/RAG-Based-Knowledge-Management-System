@@ -73,12 +73,12 @@ open up you local host and port
 7) giving context and query to the LLM and finally giving the response to the user
 
 
-#  python
-# flask (front-end)
-# LLM 
-# vector db
-# S3 bucket (AWS)
-# CICD pipeline for deployment
+###  python
+### flask (front-end)
+### LLM 
+### vector db
+### S3 bucket (AWS)
+### CICD pipeline for deployment
 
 
 
