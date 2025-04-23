@@ -79,5 +79,11 @@ open up you local host and port
 ### S3 bucket (AWS)
 ### CICD pipeline for deployment
 
+#Services:
+## Docker(containerization service) - creates image
+## ECR - storing docker image
+## EC2 - virtual machine(cpu,gpu
+## github action - CICD
+
 
 
